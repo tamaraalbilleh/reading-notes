@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# **Basic writing and formatting syntax**
+## Heading :
+* add one to **six #** symbols before your heading text
+***
+## Styling text :
+------------------------------------------------
+| **Bold**                    | ** ** or __ __ |
+| *Italic*                    | * * or _ _     |
+| ~~Strikethrough~~           | ~~ ~~          |
+| **_Bold and nested italic_**| ** ** and _ _  |
+| *** All bold and italic***  | *** ***        |
+------------------------------------------------
+***
+## Quoting text: 
+* quote text with a >
+***
+## Quoting code :
+* call out code or a command within a sentence with single backticks
+* To format code or text into its own distinct block, use triple backticks.
+***
+## Links :
+create an inline link by wrapping link text in brackets [ ], and then wrapping the URL in parentheses ( )
+### Section links
+ link directly to a section in a rendered file by hovering over the section heading to expose the link
+### Relative links :
+ relative link is a link that is relative to the current file.
+***
+## Lists : 
+* make an unordered list by preceding one or more lines of text with - or *
+* To order your list, precede each line with a number.
+***
+### nested lists :
+* Type space characters in front of your nested list item, until the list marker character (- or *) lies directly below the first character of the text in the item above it.
+![nested list](https://user-images.githubusercontent.com/3920157/41414093-5cb7602e-6fe5-11e8-9494-250521a1909a.gif)
+### Task lists :
+* To create a task list, preface list items with a regular space character followed by [ ]. To mark a task as complete, use [x]
+***
+## Using emoji :
+* You can add emoji to your writing by typing :EMOJICODE:
 
-You can use the [editor on GitHub](https://github.com/tamaraalbilleh/reading-notes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/tamaraalbilleh/reading-notes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+:new_moon_with_face:
+***
+## Paragraphs :
+You can create a new paragraph by leaving a blank line between lines of text.
+***
+***
+For more information, see Daring Fireball's "[Markdown Syntax]( https://daringfireball.net/projects/markdown/syntax#backslash)."
