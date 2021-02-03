@@ -3,13 +3,13 @@
 * add one to **six #** symbols before your heading text
 ***
 ## Styling text :
-------------------------------------------------
-| **Bold**                    | ** ** or __ __ |
-| *Italic*                    | * * or _ _     |
-| ~~Strikethrough~~           | ~~ ~~          |
-| **_Bold and nested italic_**| ** ** and _ _  |
-| *** All bold and italic***  | *** ***        |
-------------------------------------------------
+-----------------------------------------------
+ **Bold**                    | ** ** or __ __ |
+ *Italic*                    | * * or _ _     |
+ ~~Strikethrough~~           | ~~ ~~          |
+ **_Bold and nested italic_**| ** ** and _ _  |
+ *** All bold and italic***  | *** ***        |
+-----------------------------------------------
 ***
 ## Quoting text: 
 * quote text with a >
