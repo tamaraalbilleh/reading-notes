@@ -1,6 +1,4 @@
 ![header 1](https://newyorkcityvoices.org/wp-content/uploads/2020/04/pink-header-for-twitter-3.jpg)
-<div style="background-color:#ffe6ff ; text-align:center; vert
-
 # Growth Mindset
 
 ## what is a **growth mindset** ?
