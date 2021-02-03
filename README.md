@@ -1,2 +1,2 @@
 # table of content :
-* [second]()
+* [second](https://tamaraalbilleh.github.io/reading-notes/read-01)
