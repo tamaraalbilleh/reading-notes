@@ -1,3 +1,3 @@
 # table of content :
-* [second](https://tamaraalbilleh.github.io/reading-notes/read-001)
-* [third](https://tamaraalbilleh.github.io/reading-notes/read-002)
+* [Markdown language basics](https://tamaraalbilleh.github.io/reading-notes/read-001)
+* [Growth mindset](https://tamaraalbilleh.github.io/reading-notes/read-002)
