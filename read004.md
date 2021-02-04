@@ -13,10 +13,10 @@ Some sites benefit from being updated more
 frequently than others so update regularly as needed.
 ## Site Maps
 Organizing the information into sections or pages.
-![3](3.png)
+![3](https://github.com/tamaraalbilleh/reading-notes/blob/main/3.PNG)
 ## Wireframes
 A wireframe is a simple sketch of the key information that needs to go on each page of a site. It shows the hierarchy of the information and how much space it might require.
-![4](4.png)
+![4](https://github.com/tamaraalbilleh/reading-notes/blob/main/4.PNG)
 ## Getting your message across using design
 Organizing and prioritizing information on a page helps users understand its importance and what order to read it in.
 ## Visual hierarchy
@@ -45,24 +45,24 @@ HTML5 introduces a new set of elements that allow you to divide up the parts of 
 The <header> and <footer> elements can be used for:
 * The main header or footer that appears at the top or bottom of every page on the site
 * A header or footer for an individual <article> or <section> within the page
-![5](5.png)
+![5](https://github.com/tamaraalbilleh/reading-notes/blob/main/5.PNG)
 ## Navigation
 The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
-![6](6.png)
+![6](https://github.com/tamaraalbilleh/reading-notes/blob/main/6.PNG)
 ## Articles
 The <article> element acts as a container for any section of a page that could stand alone and  potentially be syndicated.
-![7](7.png)
+![7](https://github.com/tamaraalbilleh/reading-notes/blob/main/7.PNG)
 ## Asides
 The <aside> element has two purposes, depending on whether it is inside an <article> element or not
-![8](8.png)
+![8](https://github.com/tamaraalbilleh/reading-notes/blob/main/8.PNG)
 ## Sections
 The <section> element groups related content together, and typically, each section would have its own heading.
 ## Heading Groups 
 The purpose of the <hgroup> element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading
-![9](9.png)
+![9](https://github.com/tamaraalbilleh/reading-notes/blob/main/9.PNG)
 ## Figures
 It can be used to contain any content that is referenced from the main flow of an article (not just images).
-![10](10.png)
+![10](https://github.com/tamaraalbilleh/reading-notes/blob/main/10.PNG)
 ## Sectioning Elements
 It may seem strange to follow these new elements by revisiting the <div> element again. (After all, the new elements are often going to be used in its place.
 ## Linking Around Block-Level Elements
@@ -81,7 +81,7 @@ block-level elements
 
 ***
 # chapter 8 : Extra Markup
-![11](11.png)
+![11](https://github.com/tamaraalbilleh/reading-notes/blob/main/11.PNG)
 DOCTYPES tell browsers which version of HTML you
 are using.
 * You can add comments to your code between the
