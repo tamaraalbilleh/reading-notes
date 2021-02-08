@@ -24,7 +24,7 @@ now lets look at those operators:
 
 ![img](/read007p/Capture1.PNG)
 
-| operator   |  meaning  | number of conditions tested| function
+| operator   |  meaning  | number of conditions tested | function
 :-------------|:-------------| :-------------|:-------------
 |&& | AND  | more than one condition |T+T=T ,T+F=F ,F+T=F ,F+F=F
 | ![OR](/read007p/D1.PNG) | OR| at least one condition | T+T=T ,T+F=T ,F+T=T ,F+F=F
@@ -51,6 +51,7 @@ here you can see the condition is made up of three statments :
 so in this case it'll run 10 times before stopping
 * one is added to the counter using the incremment (++)
 ![img6](/read007p/D6.PNG)
+
 ![img7](/read007p/D7.PNG)
 2. ### While 
 if you don't know how many times the code should run
