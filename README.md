@@ -8,5 +8,5 @@ Here i'll be summrizing what i have learned during my labs in 102 and 201
 > for easy accses please use the table of content below :
 ***
 ## table of content :
-* [reading notes for 102](https://tamaraalbilleh.github.io/reading-notes/Code102Reading-Notes/)
-* [reading notes for 201](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes)
+* [reading notes for 102](https://tamaraalbilleh.github.io/reading-notes/Code102Reading-Notes/reading-102)
+* [reading notes for 201](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/reading-201)
