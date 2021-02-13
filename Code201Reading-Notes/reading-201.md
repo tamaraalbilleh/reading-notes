@@ -1,7 +1,7 @@
 Here i'll be summrizing what i have learned during my labs in 201
 > for easy accses please use the table of content below :
 ***
-* [the 1st reading assignment]()
+* [the 1st reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-01)
 * [the 2nd reading assignment]()
 * [the 3rd reading assignment]()
 * [the 4th reading assignment]()
