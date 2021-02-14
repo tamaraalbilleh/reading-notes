@@ -4,7 +4,7 @@
 My name is Tamara Ameen, a **REGISTERED NURSE** graduated from the university of Jordan 2020 ,ceftefied BLS provider with working experiance in oncology nursing, I've always been interested in software development, and now i'm taking a `career shift` to become a software developer to follow my true passion.
 **welcome to my page**
 ***
-Description :
+## Description :
 this page contains the reading materialsand notes summerized by me using markdown in visual studio code ,for the courses in the software development 102+201
 ***
 Here i'll be summrizing what i have learned during my labs in 102 and 201
