@@ -1,8 +1,9 @@
-Here i'll be summrizing what i have learned during my labs in 201
+Description :
+this page contains the reading materials and notes summerized by me using markdown in visual studio code ,for the 201 level of the software development course
 > for easy accses please use the table of content below :
 ***
 * [the 1st reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-01)
-* [the 2nd reading assignment]()
+* [the 2nd reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-02/class-02)
 * [the 3rd reading assignment]()
 * [the 4th reading assignment]()
 * [the 5th reading assignment]()
