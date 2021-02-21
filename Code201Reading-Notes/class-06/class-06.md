@@ -11,11 +11,11 @@
 ## creating an object :
 * literal notation is the easiest way to create objects 
 * the object is stored in a variable and is the curly braces and their content .
-![objects](/class-06/object1.PNG)
+![objects](https://github.com/tamaraalbilleh/reading-notes/blob/main/Code201Reading-Notes/class-06/object1.PNG?raw=true)
 ## accessing an object and dot notation
 * using dot notation helps accessing methods and properties within an object 
 * we use the name of the object followed by a period (member operator which means the thing on the right is a member of the one on the left ) then the name of the property or method we want to access .
-![objects](/class-06/object2.PNG)
+![objects](https://github.com/tamaraalbilleh/reading-notes/blob/main/Code201Reading-Notes/class-06/object2.PNG?raw=true)
 
 ## Chapter 5: Document Object Model
 ### THE DOM TREE IS A MODEL OF A WEB PAGE 
@@ -25,7 +25,7 @@ It consists of four main types of nodes.
 * Each node is an object with methods and properties.
 Scripts access and update this DOM tree (not the source HTML file).
 Any changes made to the DOM tree are reflected in the browser. 
-![nodes](/class-06/nodes1.PNG)
+![nodes](https://github.com/tamaraalbilleh/reading-notes/blob/main/Code201Reading-Notes/class-06/nodes1.PNG?raw=true)
 ####  THE DOCUMENT NODE 
 * At the top of the tree a document node is added it represents the entire page
 *  It is
@@ -272,7 +272,7 @@ escaped
 in code should be escaped on the server. 
 ### attribute nodes
 you can use other properties and methods on element nodes to access and change its attributes 
-![attribute nodes](/class-06/nodes2.PNG)
+![attribute nodes](https://github.com/tamaraalbilleh/reading-notes/blob/main/Code201Reading-Notes/class-06/object1.PNG?raw=true)
 ### CHECK FOR AN ATTRIBUTE AND GET ITS VALUES
 The `hasAttribute()` method
 of any element node lets you
