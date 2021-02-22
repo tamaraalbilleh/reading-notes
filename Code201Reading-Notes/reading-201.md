@@ -9,7 +9,7 @@ this page contains the reading materials and notes summerized by me using markdo
 * [the 5th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-05/class-05)
 * [the 6th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-06/class-06)
 * [the 7th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-07/class-07)
-* [the 8th reading assignment]()
+* [the 8th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-08/class-08)
 * [the 9th reading assignment]()
 * [the 10th reading assignment]()
 * [the 11th reading assignment]()
