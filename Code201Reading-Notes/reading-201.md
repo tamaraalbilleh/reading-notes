@@ -14,6 +14,6 @@ this page contains the reading materials and notes summerized by me using markdo
 * [the 10th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-10/class-10)
 * [the 11th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-11/class-11)
 * [the 12th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-12/class-12)
-* [the 13th reading assignment]()
+* [the 13th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-13/class-13)
 * [the 14th reading assignment]()
 * [the 15th reading assignment]()
