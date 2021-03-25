@@ -1,6 +1,6 @@
 Description :
-this page contains the reading materials and notes summerized by me using markdown in visual studio code ,for the 201 level of the software development course
-> for easy accses please use the table of content below :
+this page contains the reading materials and notes summarized by me using markdown in visual studio code ,for the 201 level of the software development course
+> for easy access please use the table of content below :
 ***
 * [the 1st reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-01)
 * [the 2nd reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-02/class-02)
@@ -15,5 +15,6 @@ this page contains the reading materials and notes summerized by me using markdo
 * [the 11th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-11/class-11)
 * [the 12th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-12/class-12)
 * [the 13th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-13/class-13)
-* [the 14th reading assignment]()
+* [the 14tha reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-14/class-14a)
+* [the 14thb reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-14/class-14b)
 * [the 15th reading assignment]()
