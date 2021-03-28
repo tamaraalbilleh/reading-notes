@@ -17,4 +17,3 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 13th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-13/class-13)
 * [the 14tha reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-14/class-14a)
 * [the 14thb reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code201Reading-Notes/class-14/class-14b)
-* [the 15th reading assignment]()

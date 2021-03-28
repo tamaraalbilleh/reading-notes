@@ -5,4 +5,5 @@ this page contains the reading materials and notes summarized by me using markdo
 ***
 > for easy access please use the table of content below :
 
-* [the 1st reading assignment]() .
+* [the 1st reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-01) .
+* [the 2nd reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-02) .
