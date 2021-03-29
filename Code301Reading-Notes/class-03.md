@@ -40,5 +40,6 @@ This is a shorthand for the flex-direction and flex-wrap properties, which toget
 * flex-basis : This defines the default size of an element before the remaining space is distributed
 * flex : This is the shorthand for flex-grow, flex-shrink and flex-basis combined
 * align-self : This allows the default alignment (or the one specified by align-items) to be overridden for individual flex items. 
-
+# Flexbox Froggy
+![win](blob:https://pasteboard.co/92d1f406-b25d-4697-8e95-3adea6bd0e65)
 
