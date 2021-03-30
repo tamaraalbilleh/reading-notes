@@ -45,4 +45,4 @@ Aligns a grid item inside a cell along the block (column) axis (as opposed to ju
 place-self sets both the align-self and justify-self properties in a single declaration.
 
 ## CSS Grid Garden
-!
+![win2](./win2.png)
