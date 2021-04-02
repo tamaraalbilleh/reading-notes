@@ -10,3 +10,4 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 3rd reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-03) .
 * [the 4th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-04) .
 * [the 5th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-05) .
+* [the 6th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-06) .
