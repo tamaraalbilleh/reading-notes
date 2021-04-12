@@ -15,3 +15,5 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 8th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-08) .
 * [the 9th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-09) .
 * [the 10th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-10) .
+* [the 11th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-11) .
+* [the 12th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code301Reading-Notes/class-12) .
