@@ -88,6 +88,6 @@ npm is the world's largest software registry. Open source developers from every 
 is a process of producing a software that you could release it anytime.
 continuous deployment : is an extension on continuous delivery that deploys the software at any time needed.
 **webhooks :** tool used by github to send messages and communicate to external systems about activity in your project 
-like when someone pushes code or make a pull request .
+like when someone pushes code or make a pull request.
 
 
