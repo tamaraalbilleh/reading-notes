@@ -7,3 +7,4 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the prep reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/getready) .
 * [the 1st reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-01) .
 * [the 2nd reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-02) .
+* [the 3rd reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-03) .
