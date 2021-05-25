@@ -6,7 +6,7 @@
     4. Make a request to the third-party API endpoint
     5. Receive authorization code
     6. Make a request to the access token endpoint
-    7. Receive access tokent
+    7. Receive access token
 * What can you do with an authorization code?
     *  make a request to get an access token
 * What can you do with an access token?
