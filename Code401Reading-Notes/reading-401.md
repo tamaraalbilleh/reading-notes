@@ -18,3 +18,5 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 11th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-11) .
 * [the 12th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-12) .
 * [the 13th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-13) .
+* [the 14th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-14) .
+* [the 15th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-15) .
