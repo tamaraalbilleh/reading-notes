@@ -23,4 +23,5 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 16th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-16) .
 * [the 17th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-17) .
 * [the 18th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-18) .
-* [the 19th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-18) .
+* [the 19th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-19) .
+* [the 26th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-26) .
