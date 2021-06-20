@@ -25,3 +25,4 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 18th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-18) .
 * [the 19th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-19) .
 * [the 26th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-26) .
+* [the 27th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-27) .
