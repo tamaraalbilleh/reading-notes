@@ -36,3 +36,4 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 35th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-35) .
 * [the 36th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-36) .
 * [the 37th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-37) .
+* [the 38th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-38) .
