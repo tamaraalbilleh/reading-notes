@@ -18,6 +18,9 @@
     The resulting reducer calls every child reducer, and gathers their results into a single state object.
 
 ## Preparation Materials
+1. By itself, a Redux store doesn't know anything about async logic. Any asynchronicity has to happen outside the store.
+2. Redux middleware were designed to enable writing logic that has side effects.
+3. a Redux middleware can do anything when it sees a dispatched action: log something, modify the action, delay the action, make an async call, and more.
 
 ### [async actions](https://redux.js.org/tutorials/fundamentals/part-6-async-logic)
 Redux Middleware and Side Effects#
