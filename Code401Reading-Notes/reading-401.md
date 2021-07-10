@@ -38,3 +38,5 @@ this page contains the reading materials and notes summarized by me using markdo
 * [the 37th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-37) .
 * [the 38th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-38) .
 * [the 39th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-39) .
+* [the 41th reading assignment](https://tamaraalbilleh.github.io/reading-notes/Code401Reading-Notes/class-41) .
+
